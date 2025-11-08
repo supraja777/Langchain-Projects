@@ -1,0 +1,5 @@
+streamlit
+langchain
+google-search-results
+
+langchain-google-genai
